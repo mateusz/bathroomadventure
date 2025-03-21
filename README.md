@@ -4,6 +4,8 @@ A hand-drawn adventure game made with kids. Short but complete, with a sprinklin
 
 Suitable for general audience.
 
+Made with [AGS6](https://www.adventuregamestudio.co.uk/).
+
 Controls:
 
 - **left click** or **tap** -> action
