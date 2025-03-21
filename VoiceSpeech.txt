@@ -1,0 +1,72 @@
+
+*** Lines for character EGO (ID 0) ***
+
+&1 This is my spare key to the exit door!
+&2 Bandaid, also known as a Lampshade Fixing Device.
+&3 Oh, my spare lightbulb!
+&4 I put it in the lampshade to find it easily!
+&5 This is a door leading to the bathroom.
+&6 Good bye!
+&7 This is the exit door. It's locked!
+&8 Oh no! The lampshade is broken.
+&9 I should fix it before leaving.
+&10 Oh no! This lampshade is broken.
+&11 I bet this cabinet contains something useful.
+&12 So satisfying. I can leave now!
+&13 I need to go out, but I'm stuck here...
+&14 I seem to have misplaced my house key.
+&15 Where did I put it?
+&16 Oh, the lampshade is broken.
+&17 Maybe I should fix it before going...
+&18 I need to find my spare key!
+&19 So dark.
+&20 I'm so poor I can't afford light in here.
+&21 I'm too afraid to touch this in the dark...
+&22 I should find some source of light.
+&23 Way out, obviously.
+&24 Source of all power.
+&25 Maybe I should plug something in?
+&26 Ah, a safe spot to store my spare house key.
+&27 This is an ordinary torture device you can find in every home!
+
+*** All text lines, in order of appearance in the scripts ***
+
+cEgo: &1 This is my spare key to the exit door!
+cEgo: &2 Bandaid, also known as a Lampshade Fixing Device.
+cEgo: &3 Oh, my spare lightbulb!
+cEgo: &4 I put it in the lampshade to find it easily!
+cEgo: &5 This is a door leading to the bathroom
+cEgo: &6 Good bye!
+cEgo: &7 This is the exit door. It's locked!
+cEgo: &3 Oh, my spare lightbulb!
+cEgo: &4 I put it in the lampshade to find it easily!
+cEgo: &8 Oh no! The lampshade is broken.
+cEgo: &9 I should fix it before leaving.
+cEgo: &7 This is the exit door. It's locked!
+cEgo: &10 Oh no! This lampshade is broken.
+cEgo: &9 I should fix it before leaving.
+cEgo: &11 I bet this cabinet contains something useful.
+cEgo: &2 Bandaid, also known as a Lampshade Fixing Device.
+cEgo: &12 So satisfying. I can leave now!
+cEgo: &3 Oh, my spare lightbulb!
+cEgo: &4 I put it in the lampshade to find it easily!
+cEgo: &13 I need to go out, but I'm stuck here...
+cEgo: &14 I seem to have misplaced my house key.
+cEgo: &15 Where did I put it?
+cEgo: &16 Oh, the lampshade is broken.
+cEgo: &17 Maybe I should fix it before going...
+cEgo: &18 I need to find my spare key!
+cEgo: &16 Oh, the lampshade is broken.
+cEgo: &9 I should fix it before leaving.
+cEgo: &19 So dark.
+cEgo: &20 I'm so poor I can't afford light in here.
+cEgo: &21 I'm too afraid to touch this in the dark...
+cEgo: &22 I should find some source of light.
+cEgo: &23 Way out, obviously.
+cEgo: &24 Source of all power.
+cEgo: &25 Maybe I should plug something in?
+cEgo: &26 Ah, a safe spot to store my spare house key.
+cEgo: &27 This is an ordinary torture device you can find in every home!
+cEgo: &21 I'm too afraid to touch this in the dark...
+cEgo: &22 I should find some source of light.
+cEgo: &27 This is an ordinary torture device you can find in every home!
