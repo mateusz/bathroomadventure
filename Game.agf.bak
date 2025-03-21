@@ -15,7 +15,7 @@
       <AudioIndexer>13</AudioIndexer>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
-      <BuildTargets>Windows</BuildTargets>
+      <BuildTargets xml:space="preserve">Windows, Web</BuildTargets>
       <ClipGUIControls>True</ClipGUIControls>
       <ColorDepth>TrueColor</ColorDepth>
       <CompressSpritesType>None</CompressSpritesType>
@@ -3976,7 +3976,7 @@
                 <ScriptName>aSoundtrack</ScriptName>
                 <SourceFileName>assets/soundtrack.wav</SourceFileName>
                 <Type>2</Type>
-                <FileLastModifiedDate>2024-06-01 00:44:45Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2025-03-21 00:13:15Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -4180,30 +4180,30 @@
   <Component Name="MusicAndSpeech">
     <SpeechVoxFiles>
       <Folder Name="speech">
-        <File Name="speech\ego1.mp3" FileTime="2024-05-26 05:02:02Z" />
-        <File Name="speech\ego11.mp3" FileTime="2024-05-26 05:28:20Z" />
-        <File Name="speech\ego12.mp3" FileTime="2024-05-26 05:28:38Z" />
-        <File Name="speech\ego13.mp3" FileTime="2024-05-26 05:29:00Z" />
-        <File Name="speech\ego14.mp3" FileTime="2024-05-26 05:29:20Z" />
-        <File Name="speech\ego15.mp3" FileTime="2024-05-26 05:14:46Z" />
-        <File Name="speech\ego18.mp3" FileTime="2024-05-26 05:15:28Z" />
-        <File Name="speech\ego19.mp3" FileTime="2024-05-26 05:30:00Z" />
-        <File Name="speech\ego2.mp3" FileTime="2024-05-26 05:26:58Z" />
-        <File Name="speech\ego20.mp3" FileTime="2024-05-26 05:30:12Z" />
-        <File Name="speech\ego21.mp3" FileTime="2024-05-26 05:33:44Z" />
-        <File Name="speech\ego22.mp3" FileTime="2024-05-26 05:18:10Z" />
-        <File Name="speech\ego23.mp3" FileTime="2024-05-26 05:18:36Z" />
-        <File Name="speech\ego24.mp3" FileTime="2024-05-26 05:18:58Z" />
-        <File Name="speech\ego25.mp3" FileTime="2024-05-26 05:31:52Z" />
-        <File Name="speech\ego26.mp3" FileTime="2024-05-26 05:32:12Z" />
-        <File Name="speech\ego27.mp3" FileTime="2024-05-26 05:32:30Z" />
-        <File Name="speech\ego3.mp3" FileTime="2024-05-26 05:03:58Z" />
-        <File Name="speech\ego4.mp3" FileTime="2024-05-26 05:04:38Z" />
-        <File Name="speech\ego5.mp3" FileTime="2024-05-26 05:05:46Z" />
-        <File Name="speech\ego6.mp3" FileTime="2024-05-26 05:06:18Z" />
-        <File Name="speech\ego7.mp3" FileTime="2024-05-26 05:27:44Z" />
-        <File Name="speech\ego8.mp3" FileTime="2024-05-26 05:07:48Z" />
-        <File Name="speech\ego9.mp3" FileTime="2024-05-26 05:09:38Z" />
+        <File Name="speech\ego1.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego11.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego12.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego13.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego14.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego15.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego18.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego19.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego2.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego20.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego21.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego22.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego23.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego24.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego25.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego26.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego27.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego3.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego4.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego5.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego6.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego7.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego8.mp3" FileTime="2025-03-21 00:13:15Z" />
+        <File Name="speech\ego9.mp3" FileTime="2025-03-21 00:13:15Z" />
       </Folder>
       <Folder Name="speech\peaks" />
     </SpeechVoxFiles>
